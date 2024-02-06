@@ -17,13 +17,12 @@ To run the tests, you will need [Apache JMeter](https://jmeter.apache.org/) inst
 
 ## Test Scenario
 The test scenario covers the following positive test cases:
-
-Create an agent and a customer.
-Deposit 2000 tk to the agent from the system account.
-Deposit 1000 tk to the customer from the agent account.
-Check the balance from the customer account.
-Withdraw 500 tk from the customer account.
-Payment of 200 tk from the customer account to the merchant account (Merchant account: 01686606905).
+  Create an agent and a customer.
+  Deposit 2000 tk to the agent from the system account.
+  Deposit 1000 tk to the customer from the agent account.
+  Check the balance from the customer account.
+  Withdraw 500 tk from the customer account.
+  Payment of 200 tk from the customer account to the merchant account (Merchant account: 01686606905).
 
 ## Screenshots
 ![screencapture-file-D-apache-jmeter-5-6-3-bin-projects-Reports-index-html-2024-02-05-17_42_33](https://github.com/iamsafridi/demo-transaction-api-jmeter/assets/82276738/2ff0d35e-2242-4c63-bc95-5c4aa65d794a)
